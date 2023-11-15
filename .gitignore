@@ -1,0 +1,4 @@
+*.log
+/direct/
+static/direct
+csvfile.csv
